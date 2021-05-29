@@ -15,7 +15,6 @@
     <v-img
       class="mt-5 mx-auto"
       src="Club.jpg"
-      transition="scale-transition"
       width="50%"
     />
     <v-form v-model="valid">
